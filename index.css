@@ -1,0 +1,11 @@
+#picOfMe{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid red;
+  border-radius: 4px;
+}
+
+body{
+  background-color: lightcoral;
+}
